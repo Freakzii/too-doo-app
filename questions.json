@@ -1,0 +1,6 @@
+[{"question_text":"what are dolfins",
+  "alternatives":["ampibian","fish","mammles","birds"],
+  "correct_answer":2},
+ {"question_text":"what are dolfins"
+     ,"alternatives":["ampibian","fish","mammles","birds"]
+     ,"correct_answer":2}]
